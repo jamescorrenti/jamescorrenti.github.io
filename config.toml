@@ -1,0 +1,145 @@
+# Page settings
+
+baseURL = "https://jamescorrenti.github.io"
+languageCode = "en"
+title = "James Correnti - Senior Engineer Resume"
+theme = "hugo-devresume-theme"
+googleAnalytics = "G-S3FBXW0Q4L"
+
+[params]
+    author = "James Correnti"
+    description = "James Correnti - Senior Software Engineer"
+    primaryColor = "#54B689"
+    textPrimaryColor = "#292929"
+
+    [params.profile]
+        enable = true
+        name = "James Correnti"
+        tagline = "Senior Software Engineer"
+        avatar = "avatar.png"
+
+    [params.contact]
+        enable = true
+        location = "Washington, DC"
+        [[params.contact.list]]
+        icon = "fas fa-phone-square"
+        url = "tel:+1267-402-8260"
+        text = "+1 (267) 402-8260"
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:james.e.correnti@gmail.com"
+        text = "james.e.correnti@gmail.com"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "https://jamescorrenti.github.io"
+        text = "jamescorrento.github.io"
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Programming"
+        [[params.skills.list.items]]
+        details = "Python, C++, Git"
+
+        [[params.skills.list]]
+        title = "DevOps"
+        [[params.skills.list.items]]
+        details = "Docker, Kubernetes, AWS, CI/CD, Vagrant, Conan"
+
+        [[params.skills.list]]
+        title = "Professional"
+        [[params.skills.list.items]]
+        details = "Strong problem solver, Effective communication, Team player, Good time management"
+        
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "BS with Honors in Computer Science"
+        university = "United States Military Academy"
+        dates = "2007 - 2011"
+        
+
+    [params.awards]
+        enable = false
+
+    [params.languages]
+        enable = false
+
+
+    [params.interests]
+        enable = false
+
+    [params.summary]
+        enable = true
+        text = "Self-Driven and motivated entrepreneur with a proven track record of success and achievement in building organizations from simple ideas to successful organizations. Co-Founder of a company featured in Forbes and Business Insider and a winner of Cyber Startup of the Year by the Northern Virginia Technology Council. Seeking a technical role in the real estate industry to build frictionless direct-to-customer experiences for individuals looking for their next home!"
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Co-Founder and CTO"
+        dates = "2018 - Present"
+        company = "Shift5"
+        [[params.experience.list.items]]
+        details = "Built a sophisticated cross-architecture data acquisition and processing pipeline on edge-computing devices customers use to protect critical assets and reduce operating and maintenance costs by 10%."
+        [[params.experience.list.items]]
+        details = "Reduced production bugs by 20% by designing and implementing an advanced CI/CD pipeline integrated with specialized hardware that enabled unit testing of individual features and integration testing between features and product lines."
+        [[params.experience.list.items]]
+        details = "Worked hand-in-hand with product managers, business stakeholders, and engineers to create Shift5’s core product solutions from initial concepts to installation onto five fleet deployments."       
+        [[params.experience.list.items]]
+        details = "Developed a unified developer, testing, staging, and production environment using Vagrant and Docker for multiple engineering environments that improved deployment frequency by 30%."
+        [[params.experience.list.items]]
+        details = "Grew and mentored the engineering team from sole individual contributor to an organization with 20 members, including Data Scientists, Mechanical, Electrical, Embedded, DevOps, Backend, and Frontend Engineers."
+        [[params.experience.list.items]]
+        details = "Deployed initial static website using Hugo and Gitlab Pages and then refactored website to a service-oriented architecture on Django."
+        [[params.experience.list.items]]
+        details = "Leveraged Knowledge in Python3, C++, Docker, Kubernetes, AWS, Gitlab CI/CD, Vagrant, Django, SQLAlchemy, Redis, Hugo, and Conan"
+
+
+        [[params.experience.list]]
+        title = "Cybersecurity Software Engineer"
+        dates = "2016 - 2019"
+        company = "US Army"
+        [[params.experience.list.items]]
+        details = "Architected and implemented software that interfaced with an FPGA and software-defined radio product to detect signals emanating from hobby drones and precisely jamming drones, creating a drone-free zone for product operators."
+        [[params.experience.list.items]]
+        details = "Spearheaded pentest of secure government network exposing three critical vulnerabilities in the network security model without detection by network defenders leading to an organizational network security transformation to a Zero Trust Reference Architecture."
+        [[params.experience.list.items]]
+        details = "Implemented automated network defender tool to automatically scan Windows Domains for weak credential management and offer recommendations to secure Windows Domains."
+        [[params.experience.list.items]]
+        details = "Mentored five junior backend engineers on the team on Python and Docker best practices within the organization"
+        [[params.experience.list.items]]
+        details = "Leveraged Knowledge in Python3, Flask, GNU Radio, SQLAlchemy, AWS, GitHub, Linux, Windows, Powershell, BloodHound"
+
+
+        [[params.experience.list]]
+        title = "IT Operations Manager"
+        dates = "2011 - 2016"
+        company = "US Army"
+        [[params.experience.list.items]]
+        details = "Led cross-functional IT teams with a wide range of skill sets, including Windows System Administration, Help Desk, Networking, Cryptography, and Satellite and Radio Communications, conducting support simultaneously on three separate continents in austere environments."
+
+
+    [params.projects]
+        enable = false
+
+
+    [params.information]
+        enable = false
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "//github.com/jamescorrenti"
+        title = "jamescorrenti"
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "//linkedin.com/in/james-correnti"
+        title = "James Correnti"
+        [[params.social.list]]
