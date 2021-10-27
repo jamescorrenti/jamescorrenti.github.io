@@ -32,7 +32,7 @@ googleAnalytics = "G-S3FBXW0Q4L"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "https://jamescorrenti.github.io"
-        text = "jamescorrento.github.io"
+        text = "jamescorrenti.github.io"
 
 
     [params.skills]
