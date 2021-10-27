@@ -3,7 +3,7 @@
 baseURL = "https://jamescorrenti.github.io"
 languageCode = "en"
 title = "James Correnti - Senior Engineer Resume"
-theme = "hugo-devresume-theme"
+theme = "hugo-resume"
 googleAnalytics = "G-S3FBXW0Q4L"
 
 [params]
