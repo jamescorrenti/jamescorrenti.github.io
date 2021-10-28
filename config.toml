@@ -75,7 +75,7 @@ googleAnalytics = "G-S3FBXW0Q4L"
 
     [params.summary]
         enable = true
-        text = "Self-Driven and motivated entrepreneur with a proven track record of success and achievement in building organizations from simple ideas to successful organizations. Co-Founder of a company featured in Forbes and Business Insider and a winner of Cyber Startup of the Year by the Northern Virginia Technology Council. Seeking a technical role in the real estate industry to build frictionless direct-to-customer experiences for individuals looking for their next home."
+        text = "Self-Driven and motivated entrepreneur with a proven track record of success and achievement in building organizations from simple ideas to successful organizations. Co-Founder of a company featured in Forbes and Business Insider and a winner of Cyber Startup of the Year by the Northern Virginia Technology Council. Seeking a technical role at Orchard to build frictionless direct-to-customer experiences for individuals looking for their next home."
 
     [params.experience]
         enable = true
@@ -89,15 +89,15 @@ googleAnalytics = "G-S3FBXW0Q4L"
         [[params.experience.list.items]]
         details = "Reduced production bugs by 20% by designing and implementing an advanced CI/CD pipeline integrated with specialized hardware that enabled unit testing of individual features and integration testing between features and product lines."
         [[params.experience.list.items]]
-        details = "Worked hand-in-hand with product managers, business stakeholders, and engineers to create Shift5’s core product solutions from initial concepts to installation onto five fleet deployments."       
+        details = "Led a cross-functional team of engineers, product managers, designers, and business stakeholders to create Shift5’s core product solutions from initial concepts to installation onto five fleet deployments."       
         [[params.experience.list.items]]
         details = "Developed a unified developer, testing, staging, and production environment using Vagrant and Docker for multiple engineering environments that improved deployment frequency by 30%."
         [[params.experience.list.items]]
         details = "Grew and mentored the engineering team from sole individual contributor to an organization with 20 members, including Data Scientists, Mechanical, Electrical, Embedded, DevOps, Backend, and Frontend Engineers."
         [[params.experience.list.items]]
-        details = "Deployed initial static website using Hugo and Gitlab Pages and then refactored website to a service-oriented architecture on Django."
+        details = "Deployed initial static website using Hugo and Gitlab Pages and then refactored website to a service-oriented architecture web application on Django."
         [[params.experience.list.items]]
-        details = "Leveraged Knowledge in Python3, C++, Docker, Kubernetes, AWS, Gitlab CI/CD, Vagrant, Django, SQLAlchemy, Redis, Hugo, and Conan"
+        details = "Leveraged Knowledge in Python3, C++, Docker, Kubernetes, AWS, Gitlab CI/CD, Vagrant, Django, Postgres, Redis, Hugo, and Conan."
 
 
         [[params.experience.list]]
@@ -107,13 +107,13 @@ googleAnalytics = "G-S3FBXW0Q4L"
         [[params.experience.list.items]]
         details = "Architected and implemented software that interfaced with an FPGA and software-defined radio product to detect signals emanating from hobby drones and precisely jamming drones, creating a drone-free zone for product operators."
         [[params.experience.list.items]]
-        details = "Spearheaded pentest of secure government network exposing three critical vulnerabilities in the network security model without detection by network defenders leading to an organizational network security transformation to a Zero Trust Reference Architecture."
+        details = "Spearheaded pen test of secure government network exposing three critical vulnerabilities in the network security model without detection by network defenders leading to an organizational network security transformation to a Zero Trust Reference Architecture."
         [[params.experience.list.items]]
         details = "Implemented automated network defender tool to automatically scan Windows Domains for weak credential management and offer recommendations to secure Windows Domains."
         [[params.experience.list.items]]
-        details = "Mentored five junior backend engineers on the team on Python and Docker best practices within the organization"
+        details = "Mentored five junior backend engineers on the team on Python and Docker best practices within the organization."
         [[params.experience.list.items]]
-        details = "Leveraged Knowledge in Python3, Flask, GNU Radio, SQLAlchemy, AWS, GitHub, Linux, Windows, Powershell, BloodHound"
+        details = "Leveraged Knowledge in Python3, Flask, GNU Radio, SQL, AWS, GitHub, Linux, Windows, Powershell, BloodHound."
 
 
         [[params.experience.list]]
