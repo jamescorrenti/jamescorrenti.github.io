@@ -91,7 +91,7 @@ googleAnalytics = "G-S3FBXW0Q4L"
         [[params.experience.list.items]]
         details = "Led a cross-functional team of engineers, product managers, designers, and business stakeholders to create Shift5’s core product solutions from initial concepts to installation onto five fleet deployments."       
         [[params.experience.list.items]]
-        details = "Developed a unified developer, testing, staging, and production environment using Vagrant and Docker for multiple engineering environments that improved deployment frequency by 30%."
+        details = "Developed a unified developer, testing, staging, and production environments using Vagrant and Docker for multiple engineering environments that improved deployment frequency by 30%."
         [[params.experience.list.items]]
         details = "Grew and mentored the engineering team from sole individual contributor to an organization with 20 members, including Data Scientists, Mechanical, Electrical, Embedded, DevOps, Backend, and Frontend Engineers."
         [[params.experience.list.items]]
@@ -109,7 +109,7 @@ googleAnalytics = "G-S3FBXW0Q4L"
         [[params.experience.list.items]]
         details = "Spearheaded pen test of secure government network exposing three critical vulnerabilities in the network security model without detection by network defenders leading to an organizational network security transformation to a Zero Trust Reference Architecture."
         [[params.experience.list.items]]
-        details = "Implemented automated network defender tool to automatically scan Windows Domains for weak credential management and offer recommendations to secure Windows Domains."
+        details = "Implemented automated network defender tool to automatically scan network infrastructure for security vulnerabilities and offer recommendations to secure Windows Domains."
         [[params.experience.list.items]]
         details = "Mentored five junior backend engineers on the team on Python and Docker best practices within the organization."
         [[params.experience.list.items]]
