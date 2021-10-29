@@ -107,7 +107,7 @@ googleAnalytics = "G-S3FBXW0Q4L"
         [[params.experience.list.items]]
         details = "Architected and implemented software that interfaced with an FPGA and software-defined radio product to detect signals emanating from hobby drones and precisely jamming drones, creating a drone-free zone for product operators."
         [[params.experience.list.items]]
-        details = "Spearheaded pen test of secure government network exposing three critical vulnerabilities in the network security model without detection by network defenders leading to an organizational network security transformation to a Zero Trust Reference Architecture."
+        details = "Spearheaded penetration test of secure government network exposing three critical vulnerabilities in the network security model without detection by network defenders leading to an organizational network security transformation to a Zero Trust Reference Architecture."
         [[params.experience.list.items]]
         details = "Implemented automated network defender tool to automatically scan network infrastructure for security vulnerabilities and offer recommendations to secure Windows Domains."
         [[params.experience.list.items]]
