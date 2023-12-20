@@ -30,10 +30,6 @@ googleAnalytics = "G-S3FBXW0Q4L"
         icon = "fas fa-envelope-square"
         url = "mailto:james.e.correnti@gmail.com"
         text = "james.e.correnti@gmail.com"
-        [[params.contact.list]]
-        icon = "fas fa-globe"
-        url = "https://jamescorrenti.github.io"
-        text = "jamescorrenti.github.io"
 
     [params.skills]
         enable = true
@@ -138,3 +134,6 @@ googleAnalytics = "G-S3FBXW0Q4L"
         url = "//linkedin.com/in/james-correnti"
         title = "James Correnti"
         [[params.social.list]]
+        icon = "fas fa-globe"
+        url = "//jamescorrenti.github.io"
+        title = "jamescorrenti.github.io"
